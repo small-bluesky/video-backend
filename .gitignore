@@ -1,0 +1,10 @@
+.env
+temp/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.idea/
+.vscode/
+*.log
